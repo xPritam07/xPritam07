@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @xPritam07
 - 👀 I’m interested in : Artificial Intelligence
-- 🌱 I’m currently learning : Reinforcement Learning & Deep Learning
+- 🌱 I’m currently learning : Deep Learning & Web Development
 - 💞️ I’m looking to collaborate on : AI Model building projects
 - 📫 How to reach me : gpritam.works@gmail.com
 - 😄 Pronouns: He/Him
